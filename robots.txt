@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pgallic.github.io/cadenza/sitemap.xml
